@@ -1,123 +1,1 @@
-<!-- Google Fonts: Tajawal -->
-<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap" rel="stylesheet"/>
 
-<!-- دليل الوظائف -->
-<div class="guide-box">
-
-  <h1>🔹 دليلك الشامل للتقديم على وظائف المستشفيات والجهات الكبرى</h1>
-  <p>مرحبًا بك في دليل <strong>ieyy96 ⟶ ai3bdullah</strong> الذي يجمع شروحات التقديم في المستشفيات والجهات الحكومية والخاصة في السعودية، بروابط مباشرة وشروحات مرئية ومجربة.</p>
-
-  <hr>
-
-  <h2>🚑 مستشفيات كبرى</h2>
-  <ul>
-    <li>💼 <a href="https://t.me/ieyy96/2099" target="_blank">الحرس الوطني</a></li>
-    <li>🏥 <a href="https://t.me/ieyy96/2148" target="_blank">الملك فيصل التخصصي</a></li>
-    <li>👁️ <a href="https://t.me/ieyy96/2024" target="_blank">الملك خالد التخصصي للعيون</a></li>
-    <li>🏥 <a href="https://t.me/ieyy96/2029" target="_blank">مدينة الملك سعود الطبية</a></li>
-    <li>🛡️ <a href="https://t.me/ieyy96/2036" target="_blank">مستشفيات وزارة الدفاع</a></li>
-    <li>🏨 <a href="https://t.me/ieyy96/2054" target="_blank">مدينة الملك فهد الطبية</a></li>
-    <li>🚓 <a href="https://t.me/ieyy96/2072" target="_blank">مستشفى قوى الأمن</a></li>
-    <li>🏫 <a href="https://t.me/ieyy96/2050" target="_blank">جامعة الملك سعود للعلوم الصحية</a></li>
-    <li>🧪 <a href="https://t.me/ieyy96/2049" target="_blank">مركز كيمارك</a></li>
-  </ul>
-
-  <h2>🏢 شركات ومؤسسات</h2>
-  <ul>
-    <li>✈️ <a href="https://t.me/ieyy96/2066" target="_blank">الخطوط السعودية</a></li>
-    <li>🛢️ <a href="https://t.me/ieyy96/2061" target="_blank">شركة أرامكو</a></li>
-    <li>🏥 <a href="https://t.me/ieyy96/2043" target="_blank">شركة الصحة القابضة</a></li>
-    <li>📹 <a href="https://bit.ly/m/el2bdullah-page" target="_blank">شروحات بالفيديو للوظائف</a></li>
-  </ul>
-
-  <h2>📌 روابط مهمة</h2>
-  <ul>
-    <li>📎 <a href="https://bit.ly/4mpuGcv" target="_blank">روابط تقديم وظائف المستشفيات 2026</a></li>
-    <li>🧠 <a href="https://bit.ly/43vME4r" target="_blank">برنامج SCDP - تدريب منتهي بالتوظيف</a></li>
-    <li>🎥 <a href="https://bit.ly/4aHN8aA" target="_blank">فيديو شامل لشرح التقديم</a></li>
-  </ul>
-
-  <h2>💬 قروبات تجارب المقابلات</h2>
-  <ul>
-    <li>🔸 <a href="https://t.me/imngha" target="_blank">الحرس الوطني</a></li>
-    <li>🔸 <a href="https://t.me/ikfshrc" target="_blank">الملك فيصل التخصصي</a></li>
-  </ul>
-
-  <h2>📡 تابعني</h2>
-  <ul>
-    <li>🌐 <a href="https://bit.ly/3FnOaNO" target="_blank">ieyy96 Blog</a></li>
-    <li>👻 <a href="https://t.snapchat.com/YnKdlGiJ" target="_blank">Snapchat</a></li>
-    <li>📲 <a href="https://t.me/iieyy96" target="_blank">قناة Telegram الرئيسية</a></li>
-  </ul>
-
-  <hr>
-
-  <h3>✅ مميزات هذا الدليل</h3>
-  <ul>
-    <li>✔️ روابط مباشرة وسهلة.</li>
-    <li>✔️ دعم بالفيديو والنص.</li>
-    <li>✔️ تغطية شاملة لأشهر الجهات.</li>
-    <li>✔️ واجهة بسيطة وجذابة.</li>
-  </ul>
-
-</div>
-
-<style>
-.guide-box {
-  background: #fff;
-  border-radius: 14px;
-  padding: 30px;
-  max-width: 750px;
-  margin: auto;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.07);
-  font-family: 'Tajawal', sans-serif;
-  line-height: 1.9;
-  color: #222;
-}
-
-.guide-box h1 {
-  color: #007bff;
-  font-size: 24px;
-  margin-bottom: 10px;
-}
-
-.guide-box h2 {
-  margin-top: 30px;
-  color: #444;
-  font-size: 20px;
-  border-bottom: 1px solid #eee;
-  padding-bottom: 5px;
-}
-
-.guide-box h3 {
-  margin-top: 25px;
-  color: #444;
-  font-size: 18px;
-}
-
-.guide-box p {
-  font-size: 15px;
-  color: #555;
-}
-
-.guide-box ul {
-  list-style: none;
-  padding: 0;
-  margin: 10px 0 20px 0;
-}
-
-.guide-box li {
-  margin-bottom: 10px;
-  font-size: 15px;
-}
-
-.guide-box a {
-  color: #0066cc;
-  font-weight: bold;
-  text-decoration: none;
-}
-
-.guide-box a:hover {
-  text-decoration: underline;
-}
-</style>
